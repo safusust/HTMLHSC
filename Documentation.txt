@@ -1,0 +1,14 @@
+h1 -> Heading (big )
+h1- h6 
+h6 -> Heading (Small)
+<p> -> paragraph (new block)
+<del>  -> middle line 
+<strong> big 
+<big> -> front big 
+<sup> -> supscript ( up )
+<sub> -> subscript (down)
+<u> -> underline  
+<i> -> italic
+<b> -> bold 
+<br> -> line break
+<img> src -> link height ->  weidth   
